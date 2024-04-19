@@ -1,0 +1,64 @@
+GP1
+Rbr 25 + 18
+honda 25 + 18
+Ferrari 15 + 12
+mercedes 10 + 8 + 6 + 4 + 2 + 1
+mclaren 8 + 4
+Aston Martin 2 + 1
+
+GP2
+rbr 25 + 18
+honda 25 + 18
+ferrari 15 + 6 + 1
+mercedes 12 + 10 + 8 + 2
+mclaren 12 + 4
+aston martin 10
+hass 1
+
+GP3
+ferrari 25 + 18 + 2 + 1
+mclaren 15 + 12
+mercedes 15 + 12 + 8 + 4
+rbr 10
+honda 10 + 6
+aston martin 8 + 4
+Visa Cash App RB F1 6
+hass 2 + 1
+
+resultados po GP
+GP1
+rbr 43
+honda 43
+mercedes 31
+ferrari 27
+mclaren 12
+aston martin 3
+
+GP2
+rbr 43
+honda 43
+mercedes 32
+ferrari 22
+mclaren 16
+aston martin 10
+hass 1
+
+GP3
+ferrari 46
+mercedes 39
+mclaren 27
+honda 16
+aston martin 12
+rbr 10
+visa cach app rb f1 6
+hass 3
+
+final
+rbr 126 = 42
+honda 102 = 34
+mercedes 102 = 34
+ferrari 95 = 31,6
+mclaren 55 = 18,3
+aston martin 25 = 8,3
+visa 6 = 2
+hass 4 = 1,3
